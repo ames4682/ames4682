@@ -13,9 +13,7 @@
 ---
 
 ### 🚀 Projects  
-- 🏨 [**Hostel Booking System**](https://github.com/amesfreestyles/hostel-booking-system) — Web app for students to book hostel rooms online  
-- 🛒 [**Kirinyaga Web Market**](https://github.com/amesfreestyles/kirinyaga-web-market) — Local e-commerce platform for Kirinyaga residents  
-- 📶 [**WiFi Captive Portal UI**](https://github.com/amesfreestyles/wifi-captive-portal) — Modern WiFi hotspot landing page with simulated M-Pesa integration
+🛒 [**Kirinyaga Web Market**](https://github.com/ames4682/kirinyaga-web-market) — Local e-commerce platform for Kirinyaga residents 
 
 ---
 
