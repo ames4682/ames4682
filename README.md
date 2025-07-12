@@ -14,6 +14,8 @@
 
 ### 🚀 Projects  
 🛒 [**Kirinyaga Web Market**](https://github.com/ames4682/kirinyaga-web-market) — Local e-commerce platform for Kirinyaga residents 
+🏨 [**Hostel Booking System**](https://github.com/ames4682/hostel-booking-system) — Web app for students to book hostel rooms online  
+
 
 ---
 
