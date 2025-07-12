@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats  
 
-![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=amesfreestyles&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amesfreestyles&layout=compact&theme=radical)
+![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ames4682&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ames4682&layout=compact&theme=radical)
 
 ---
 
